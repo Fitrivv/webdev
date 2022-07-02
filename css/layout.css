@@ -2,21 +2,21 @@
     box-sizing: border-box;
 }
 
-.left {
+left {
     background-color: brown;
     padding: 20px;
     float: left;
     width: 20%; 
 }
 
-.main {
+main {
     background-color: bisque;
     padding: 20px;
     float: left;
     width: 60%;
 }
 
-.right {
+right {
     background-color: antiquewhite;
     padding: 20px;
     float: left;
